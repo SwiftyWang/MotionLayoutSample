@@ -9,7 +9,7 @@ import androidx.core.content.ContextCompat
 import com.dfodor.motionlayout.sample.databinding.ActivityMusicBandListBinding
 
 private const val SCALE = 1.2f
-private const val ANIMATION_DURATION = 400
+private const val ANIMATION_DURATION = 3000
 
 class MusicBandListActivity : AppCompatActivity() {
 
